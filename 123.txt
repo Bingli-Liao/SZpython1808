@@ -1,2 +1,2 @@
 test for fast forward merge method.
-xxxxxxxxxxxxxxxxxxxxx
+99999999999999999999
