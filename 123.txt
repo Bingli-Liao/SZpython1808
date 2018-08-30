@@ -1,2 +1,2 @@
 test for fast forward merge method.
-test for conflict2
+xxxxxxxxxxxxxxxxxxxxx
