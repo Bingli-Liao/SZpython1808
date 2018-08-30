@@ -1,2 +1,2 @@
 test for fast forward merge method.
-test for conflict1
+test for conflict2
